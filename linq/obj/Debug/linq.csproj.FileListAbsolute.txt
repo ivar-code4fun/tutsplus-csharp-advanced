@@ -1,0 +1,6 @@
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\linq\bin\Debug\linq.exe.config
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\linq\bin\Debug\linq.exe
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\linq\bin\Debug\linq.pdb
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\linq\obj\Debug\linq.exe
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\linq\obj\Debug\linq.pdb
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\linq\obj\Debug\linq.csprojResolveAssemblyReference.cache
