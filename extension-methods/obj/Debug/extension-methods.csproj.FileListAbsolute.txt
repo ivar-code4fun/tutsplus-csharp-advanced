@@ -1,0 +1,6 @@
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\extension-methods\bin\Debug\extension-methods.exe.config
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\extension-methods\bin\Debug\extension-methods.exe
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\extension-methods\bin\Debug\extension-methods.pdb
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\extension-methods\obj\Debug\extension-methods.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\extension-methods\obj\Debug\extension-methods.exe
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\extension-methods\obj\Debug\extension-methods.pdb
