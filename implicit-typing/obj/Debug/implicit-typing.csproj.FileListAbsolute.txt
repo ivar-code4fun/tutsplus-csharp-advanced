@@ -1,0 +1,5 @@
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\bin\Debug\csharp-advanced.exe.config
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\bin\Debug\csharp-advanced.exe
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\bin\Debug\csharp-advanced.pdb
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\obj\Debug\csharp-advanced.exe
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\obj\Debug\csharp-advanced.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\events\bin\Debug\events.exe.config
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\events\bin\Debug\events.exe
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\events\bin\Debug\events.pdb
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\events\obj\Debug\events.exe
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\events\obj\Debug\events.pdb

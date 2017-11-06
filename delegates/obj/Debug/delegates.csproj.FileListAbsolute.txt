@@ -1,0 +1,5 @@
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\delegates\bin\Debug\delegates.exe.config
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\delegates\bin\Debug\delegates.exe
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\delegates\bin\Debug\delegates.pdb
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\delegates\obj\Debug\delegates.exe
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\delegates\obj\Debug\delegates.pdb
