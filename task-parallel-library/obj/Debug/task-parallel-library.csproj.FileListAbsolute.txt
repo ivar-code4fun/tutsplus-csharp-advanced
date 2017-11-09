@@ -1,1 +1,6 @@
 C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\task-parallel-library\bin\Debug\task-parallel-library.exe.config
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\task-parallel-library\bin\Debug\task-parallel-library.exe
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\task-parallel-library\bin\Debug\task-parallel-library.pdb
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\task-parallel-library\obj\Debug\task-parallel-library.exe
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\task-parallel-library\obj\Debug\task-parallel-library.pdb
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\task-parallel-library\obj\Debug\task-parallel-library.csprojResolveAssemblyReference.cache
