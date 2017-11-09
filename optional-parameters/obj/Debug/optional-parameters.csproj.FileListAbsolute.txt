@@ -1,0 +1,6 @@
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\optional-parameters\obj\Debug\optional-parameters.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\optional-parameters\bin\Debug\optional-parameters.exe.config
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\optional-parameters\bin\Debug\optional-parameters.exe
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\optional-parameters\bin\Debug\optional-parameters.pdb
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\optional-parameters\obj\Debug\optional-parameters.exe
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\optional-parameters\obj\Debug\optional-parameters.pdb

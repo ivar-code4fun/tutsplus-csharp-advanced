@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anonymous-types", "anonymou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dynamic", "dynamic\dynamic.csproj", "{290D71D7-4B1D-4122-BC66-47FA35D67326}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "optional-parameters", "optional-parameters\optional-parameters.csproj", "{DA6A4E5C-A67A-4601-8150-3D00E8A71D4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{290D71D7-4B1D-4122-BC66-47FA35D67326}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{290D71D7-4B1D-4122-BC66-47FA35D67326}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{290D71D7-4B1D-4122-BC66-47FA35D67326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA6A4E5C-A67A-4601-8150-3D00E8A71D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6A4E5C-A67A-4601-8150-3D00E8A71D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6A4E5C-A67A-4601-8150-3D00E8A71D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6A4E5C-A67A-4601-8150-3D00E8A71D4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
