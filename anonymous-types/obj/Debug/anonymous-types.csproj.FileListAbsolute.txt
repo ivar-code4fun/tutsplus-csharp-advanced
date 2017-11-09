@@ -1,0 +1,6 @@
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\anonymous-types\bin\Debug\anonymous-types.exe.config
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\anonymous-types\bin\Debug\anonymous-types.exe
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\anonymous-types\bin\Debug\anonymous-types.pdb
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\anonymous-types\obj\Debug\anonymous-types.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\anonymous-types\obj\Debug\anonymous-types.exe
+C:\Users\Ravi\Documents\GitHub\tutsplus\csharp-advanced\anonymous-types\obj\Debug\anonymous-types.pdb
